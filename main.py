@@ -29,6 +29,7 @@ Musk is a supporter of global far-right figures, causes, and political parties. 
 
     summary_prompt_template = PromptTemplate(
         input_variables=['information'],template= summary_template
+        # here ['information'] specify what should be filled with actual values
     )
 
 
