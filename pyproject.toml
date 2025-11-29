@@ -13,4 +13,6 @@ dependencies = [
     "langchain-tavily>=0.2.11",
     "python-dotenv>=1.2.1",
     "tavily-python>=0.7.13",
+    "langchain_classic>=1.0.0",
+    "langchain-ollama>=1.0.0"
 ]
